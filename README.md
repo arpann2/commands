@@ -15,9 +15,8 @@
 2. To install package `apt-get install <packageName>`
 
 3. To install VIM - text editor
-`apt install vim
-ESC+: then q+!+ENTER // to exit from vim
-`
+`apt install vim`
+`ESC+: then q+!+ENTER` // to exit from vim
 
 
 
@@ -45,7 +44,8 @@ Eg. `tracert cnn.co.jp` -- it is called trace root command
 
 4. Start docker container -- `docker run -it <imageName>`
        
-5. Run and Map local port to docker container port -- `docker run -dit -p 80:80 <imageName:imageTag> /bin/bash` this will connect local host port 80 to docker container port 80
+5. Run and Map local port to docker container port -- `docker run -dit -p 80:80 <imageName:imageTag> /bin/bash` 
+>this will connect local host port 80 to docker container port 80
 
 6. Verify ports are mapped and docker is running -- `docker ps`
 
