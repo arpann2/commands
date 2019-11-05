@@ -18,7 +18,21 @@
 `apt install vim`
 `ESC+: then q+!+ENTER` // to exit from vim
 
+4. To find application/program -- `which <programName>`
 
+5. To find application/program in broader range of system directories -- `whereis <programName>`
+
+6. To print text of the file on the terminal -- `cat <fileName>`
+
+7. To print first few lines of the file -- `head <fileName>`
+
+8. To print last few lines of the file -- `tail <fileName>`
+
+9. To go to home directory -- `cd` or `cd ~`
+
+10. To go to parent directory -- `cd ..`
+
+11. Change to previous directory -- `cd -`
 
 
 
