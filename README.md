@@ -22,17 +22,21 @@
 
 5. To find application/program in broader range of system directories -- `whereis <programName>`
 
-6. To print text of the file on the terminal -- `cat <fileName>`
+6. For viewing files that are not very long; it does not provide any scroll-back -- `cat <fileName>`
 
-7. To print first few lines of the file -- `head <fileName>`
+7. To print first 15 lines of the file -- `head <fileName>`
 
-8. To print last few lines of the file -- `tail <fileName>`
+8. To print last 10 lines of the file -- `tail <fileName>`
 
 9. To go to home directory -- `cd` or `cd ~`
 
 10. To go to parent directory -- `cd ..`
 
 11. Change to previous directory -- `cd -`
+
+12. Used to look at a file backwards, starting with the last line -- `tac <fileName>`
+
+13. Used to view larger files because it is a paging program -- `less <fileName>`
 
 
 
