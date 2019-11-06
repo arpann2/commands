@@ -43,6 +43,15 @@
  To create an empty file -- `touch <fileName>` 
  
  To change time stemp in file -- `touch -t 12091600 myfile` This sets the myfile file's timestamp to 4 p.m., December 9th (12 09 1600)
+ 
+ 15. To remove the file `rm <fileName>`
+ 
+ 16. To remove the file forcefully `rm -f <fileName>`
+ 
+ 17. To Interactively remove a file `rm -i <fileName>`
+ 
+ 18. To rename the file `mv <fileName>`
+  
 
 
 <a name="anch2"> **2. Networking**</a> 
