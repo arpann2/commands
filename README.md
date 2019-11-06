@@ -38,6 +38,11 @@
 
 13. Used to view larger files because it is a paging program -- `less <fileName>`
 
+14. Touch is used to create empty file and change the file settings 
+ 
+ To create an empty file -- `touch <fileName>` 
+ 
+ To change time stemp in file -- `touch -t 12091600 myfile` This sets the myfile file's timestamp to 4 p.m., December 9th (12 09 1600)
 
 
 <a name="anch2"> **2. Networking**</a> 
