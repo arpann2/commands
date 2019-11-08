@@ -5,7 +5,7 @@
 #### 1. [Linux - Ubuntu](#anch1)
 #### 2. [Networking](#anch2)
 #### 3. [Docker](#anch3)
-
+#### 4. [Windows](#anch4)
 
 
 <a name="anch1">**1. Linux - Ubuntu**</a>
@@ -85,5 +85,10 @@ Eg. `tracert cnn.co.jp` -- it is called trace root command
 
 8. To come out from docker Container -- `CTRL+p+q`
 
+
+
+<a name="anch4">**4. Windows**</a>
+
+1. To get path list in command prompt -- `path` or `%path:;=&echo.%`
 
 
