@@ -51,6 +51,14 @@
  17. To Interactively remove a file `rm -i <fileName>`
  
  18. To rename the file `mv <fileName>`
+ 
+ 19. `cd` remembers where you were last, and lets you get back there with `cd -`
+ 
+ 20. `locate` performs a database search to find all file names that match a given pattern -- `locate <fileName>`
+ 
+ 21. `find` is able to run commands on the files that it lists, when used with the -exec option
+ 
+ 22. `touch` is used to set the access, change, and edit times of files, as well as to create empty files.
   
 
 
